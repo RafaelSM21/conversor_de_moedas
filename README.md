@@ -2,7 +2,7 @@
 
 ```bash
 git clone https://github.com/RafaelSM21/conversor_de_moedas.git
-cd conversor-moedas
+cd conversor_de_moedas
 ```
 
 ## 2️⃣ Instale o TypeScript (se ainda não tiver instalado)
