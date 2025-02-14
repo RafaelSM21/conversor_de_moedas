@@ -1,7 +1,7 @@
 ## 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/conversor-moedas.git
+git clone https://github.com/RafaelSM21/conversor_de_moedas.git
 cd conversor-moedas
 ```
 
