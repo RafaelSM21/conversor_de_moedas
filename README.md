@@ -11,16 +11,4 @@ cd conversor_de_moedas
 npm install -g typescript
 ```
 
-## 3️⃣ Instale o Live Server (para rodar o HTML no navegador)
-
-```bash
-npm install -g live-server
-```
-
-## 4️⃣ Compile o TypeScript
-
-```bash
-tsc
-```
-
-## 5️⃣ abra o arquivo HTML e teste a aplicação
+## 3️⃣ abra o arquivo HTML e teste a aplicação
